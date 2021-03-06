@@ -31,7 +31,6 @@ body {
         display: flex;
         justify-content: center;
         align-items: center;
-        color: #B8BECD;
         font-family: Inter;
         font-style: normal;
         font-weight: normal;
@@ -104,7 +103,6 @@ body {
   justify-content: center;
   align-items: center; }
   .register-btn {
-    background-color: #FFFFFF;
     cursor: pointer;
     width: 132px;
     height: 44px;
@@ -157,18 +155,12 @@ body {
     margin-top: 21px;
     margin-bottom: 48px; }
   .form-btn {
-    cursor: pointer;
     background-color: #fff;
     border: 0.8px solid #AFB0B9;
     box-sizing: border-box;
     border-radius: 6px;
     width: 220px;
     height: 52px; }
-    .form-btn:hover {
-      border: 3px solid #333; }
-    .form-btn:hover span {
-      color: #333;
-      font-weight: bold; }
     .form-btn span {
       width: 68px;
       height: 10px;
@@ -184,14 +176,11 @@ body {
     height: 60px;
     margin-top: 51px; }
     .form-explore button {
-      cursor: pointer;
       border: solid #fff;
       width: 180px;
       height: 60px;
       background: #FB8F1D;
       border-radius: 8px; }
-      .form-explore button:hover {
-        border: 3px solid #333; }
       .form-explore button span {
         font-family: Mulish;
         font-style: normal;
