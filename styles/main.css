@@ -96,6 +96,7 @@ header {
   align-items: center; }
 
 .login-btn {
+  outline: none;
   background-color: #FFFFFF;
   cursor: pointer;
   width: 132px;
@@ -123,6 +124,7 @@ header {
   align-items: center; }
 
 .register-btn {
+  outline: none;
   background-color: #FFFFFF;
   cursor: pointer;
   width: 132px;
@@ -163,6 +165,7 @@ header {
   flex-wrap: wrap; }
 
 .form-upper_finder button {
+  outline: none;
   width: 220px;
   height: 52px;
   margin-bottom: 35px;
@@ -281,6 +284,7 @@ header {
   margin-bottom: 33px; }
 
 .desc_btn {
+  outline: none;
   width: 164px;
   height: 60px;
   text-align: left;
@@ -348,6 +352,7 @@ header {
   position: absolute; }
 
 .destinations_view {
+  outline: none;
   cursor: pointer;
   height: 60px;
   position: absolute;
@@ -535,6 +540,7 @@ header {
   margin-bottom: 33px; }
 
 .guide-by_btn {
+  outline: none;
   width: 164px;
   height: 48px;
   background: #FB8F1D;
