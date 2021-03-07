@@ -242,7 +242,7 @@ header {
 .desc {
 	width: 1415px;
 	height: 786px;
-	margin: 270px auto	262px;
+	margin: 270px auto	0;
 	position: relative;
 	&-img {
 		position: absolute;
@@ -333,7 +333,7 @@ header {
 	width: 1415px;
 	height: 786px;
 	position: relative;
-	margin: 0 auto 173px;
+	margin: 0 auto 0;
 	&_element {
 		position: absolute;
 		top: 329px;
@@ -488,7 +488,7 @@ header {
 	width: 1415px;
 	height: 786px;
 	position: relative;
-	margin: 0 auto 248px;
+	margin: 0 auto 0;
 	&-element1 {
 		position: relative;
 		top: 85px;

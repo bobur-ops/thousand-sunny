@@ -240,7 +240,7 @@ header {
 .desc {
   width: 1415px;
   height: 786px;
-  margin: 270px auto	262px;
+  margin: 270px auto	0;
   position: relative; }
 
 .desc-img {
@@ -330,7 +330,7 @@ header {
   width: 1415px;
   height: 786px;
   position: relative;
-  margin: 0 auto 173px; }
+  margin: 0 auto 0; }
 
 .destinations_element {
   position: absolute;
@@ -483,7 +483,7 @@ header {
   width: 1415px;
   height: 786px;
   position: relative;
-  margin: 0 auto 248px; }
+  margin: 0 auto 0; }
 
 .guide-element1 {
   position: relative;
