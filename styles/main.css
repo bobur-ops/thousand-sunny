@@ -49,6 +49,19 @@ header {
   color: #202336;
   cursor: pointer; }
 
+.header_top-nav ul li a {
+  color: #B8BECD;
+  text-decoration: none;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px; }
+
+.header_top-nav ul li a:hover {
+  color: #202336;
+  cursor: pointer; }
+
 .header-title {
   position: absolute;
   font-family: Playfair Display;

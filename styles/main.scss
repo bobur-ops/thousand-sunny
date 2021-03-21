@@ -45,6 +45,19 @@ header {
 					color: #202336;
 					cursor: pointer;
 				}
+				a {
+					color: #B8BECD;
+					text-decoration: none;
+					font-family: Inter;
+					font-style: normal;
+					font-weight: normal;
+					font-size: 16px;
+					line-height: 19px;
+					&:hover {
+						color: #202336;
+						cursor: pointer;
+					}
+				}
 			}
 		}
 	}
